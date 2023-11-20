@@ -16,7 +16,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NatalaBoiko/mysite4students/issues"
+    "url": "https://github.com/mysite4students/mysite4students/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
